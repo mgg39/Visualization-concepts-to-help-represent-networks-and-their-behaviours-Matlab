@@ -1,0 +1,3 @@
+Histograms simplified by converting to contoured-point cloud:
+  https://www.mathworks.com/help/matlab/ref/plotmatrix.html
+  https://www.mathworks.com/help/matlab/ref/contour.html
